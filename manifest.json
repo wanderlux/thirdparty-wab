@@ -1,0 +1,21 @@
+{
+  "name": "thirdparty",
+  "label": "thirdparty",
+  "platform": "HTML",
+  "version": "2.9",
+  "wabVersion": "2.9",
+  "author": "Mónica M. - wanderlux",
+  "description": "Example to use thirdparty JS libraries in WAB",
+  "copyright": "2018",
+  "license": "https://spdx.org/licenses/GPL-3.0.html",
+  "properties": {
+    "hasConfig": true,
+    "hasStyle": true,
+    "hasLocale": true,
+    "hasUIFile": true,
+    "hasSettingPage": true,
+    "hasSettingUIFile": true,
+    "hasSettingLocale": true,
+    "hasSettingStyle": true
+  }
+}
