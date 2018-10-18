@@ -1,6 +1,6 @@
 {
-  "name": "thirdparty",
-  "label": "thirdparty",
+  "name": "thirdparty-wab",
+  "label": "thirdparty-wab",
   "platform": "HTML",
   "version": "2.9",
   "wabVersion": "2.9",
@@ -9,13 +9,10 @@
   "copyright": "2018",
   "license": "https://spdx.org/licenses/GPL-3.0.html",
   "properties": {
-    "hasConfig": true,
-    "hasStyle": true,
-    "hasLocale": true,
+    "hasConfig": false,
+    "hasStyle": false,
+    "hasLocale": false,
     "hasUIFile": true,
-    "hasSettingPage": true,
-    "hasSettingUIFile": true,
-    "hasSettingLocale": true,
-    "hasSettingStyle": true
+    "hasSettingPage": false
   }
 }
