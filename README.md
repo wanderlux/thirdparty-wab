@@ -4,7 +4,7 @@ WAB widget example to use third-party JS libraries
 
 Since I couldn't understand ArcGIS documentation and could not find much help online, I made this quick Web AppBuilder for ArcGIS widget to show how to add third-party libraries to them so widgets can be standalone.
 
-Once solved it was pretty obvious but \*¯\_(ツ)_/¯\*
+Once solved it was pretty obvious but ¯\_(ツ)_/¯
 
 ## The library itself
 
