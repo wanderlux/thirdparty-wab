@@ -2,7 +2,9 @@
 
 WAB widget example to use third-party JS libraries
 
-Made this quick Web AppBuilder for ArcGIS widget to show how to add third-party libraries to them so widgets can be standalone since I couldn't understand ArcGIS documentation and could not find much help online.
+Since I couldn't understand ArcGIS documentation and could not find much help online, I made this quick Web AppBuilder for ArcGIS widget to show how to add third-party libraries to them so widgets can be standalone.
+
+Once solved it was pretty obvious but \*¯\_(ツ)_/¯\*
 
 ## The library itself
 
@@ -25,5 +27,8 @@ Don't forget to include it in the function in the correct order `function (..., 
 function(declare, BaseWidget, ClipboardJS)
 ```
 
+## Notes
+
+Of course you could use any other folder or folder name as long as it exists within the widget folder.
 
 And that's it.
